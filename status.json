@@ -26,14 +26,14 @@
       }
     },
     "world.football.cup": {
-      "ads_list": ["am"],
+      "ads_list": ["am", "is"],
       "am_ba": "ca-app-pub-3856806356643461/4859437405",
       "am_in": "ca-app-pub-3856806356643461/2233274060",
       "am_na": "ca-app-pub-3856806356643461/3677922528",
       "app_id": "ca-app-pub-3856806356643461~5619695164",
 
-      "interval": 50001,
-      "is_id": "",
+      "interval": 50000,
+      "is_id": "26b37f17d",
       "get_channel_via_link": true,
       "stats_url123": "data/africa2023/st",
       "live_display_duration": 120,
