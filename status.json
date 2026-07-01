@@ -27,13 +27,13 @@
     },
 
     "world.football.cup.test": {
-      "ads_list": ["am11"],
+      "ads_list": ["am"],
       "am_ba": "ca-app-pub-3940256099942544/6300978111",
       "am_in": "ca-app-pub-3940256099942544/1033173712",
       "am_na": "ca-app-pub-3940256099942544/2247696110",
       "app_id": "",
 
-      "interval": 50001,
+      "interval": 5001,
       "is_id": "",
       "get_channel_via_link": true,
       "stats_url": "data/africa2023/st",
