@@ -63,7 +63,11 @@
       "interval": 50000,
       "is_id": "26b37f17d",
       "get_channel_via_link": true,
-      "stats_url123": "data/africa2023/st",
+      
+      "stats_url123": "data/wc26/st",
+      "fi_url": "data/wc26/fi",
+      "sta_url": "data/wc26/sta",
+
       "live_display_duration": 120,
 
       "status":2,
