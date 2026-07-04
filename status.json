@@ -38,9 +38,9 @@
       "get_channel_via_link": true,
       "stats_url": "data/africa2023/st",
       "live_display_duration": 120,
-      "fi_url11": "data/wc26/fi",
+      "fi_url": "data/wc26/fi",
       "fi_urlzzzz": "app/encrypt",
-      "sta_url11": "data/wc26/sta",
+      "sta_url": "data/wc26/sta",
 
       "status":2,
       "version_code":1,
@@ -66,8 +66,8 @@
       "get_channel_via_link": true,
       
       "stats_url123": "data/wc26/st",
-      "fi_url11": "data/wc26/fi",
-      "sta_url11": "data/wc26/sta",
+      "fi_url": "data/wc26/fi",
+      "sta_url": "data/wc26/sta",
 
       "live_display_duration": 120,
 
