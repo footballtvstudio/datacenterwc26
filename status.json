@@ -33,7 +33,7 @@
       "am_na": "ca-app-pub-3940256099942544/2247696110",
       "app_id": "",
 
-      "interval": 5001,
+      "interval": 50000,
       "is_id": "",
       "get_channel_via_link": true,
       "stats_url": "data/africa2023/st",
