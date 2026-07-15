@@ -1,17 +1,17 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/hmstddb/footballhd/master/ad/icon.png",
-      "cover": "https://raw.githubusercontent.com/hmstddb/footballhd/master/ad/graphic.png",
-      "appName": "Flashscore",
-      "description": "Watch 2024 Football Live online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football",
-      "package": "eu.livesport.FlashScore_com",
+      "icon": "https://raw.githubusercontent.com/footballtvstudio/datacenterwc26/master/ad/iconnew2.png",
+      "cover": "https://raw.githubusercontent.com/footballtvstudio/datacenterwc26/master/ad/granew.png",
+      "appName": "World Cup Live TV",
+      "description": "Watch 2026 World Cup Live TV online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football",
+      "package": "com.arab.cup",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },{
-      "icon": "https://raw.githubusercontent.com/hmstddb/footballhd/master/ad/icon1.png",
-      "cover": "https://raw.githubusercontent.com/hmstddb/footballhd/master/ad/graphic1.png",
+      "icon": "https://raw.githubusercontent.com/footballtvstudio/datacenterwc26/master/ad/icon1.png",
+      "cover": "https://raw.githubusercontent.com/footballtvstudio/datacenterwc26/master/ad/graphic1.png",
       "appName": "Africa Cup 2023",
       "description": "Latest update for the standing, Lineups, Squad, Yellow and red cards, Field formations, Match statistics, Top-scorer, City and stadium information",
       "package": "eu.livesport.FlashScore_com",
