@@ -38,7 +38,7 @@
       "get_channel_via_link": true,
       "stats_url11": "data/africa2023/st",
       "live_display_duration": 120,
-      
+
       "fi_url": "data/wc26/fi",
       "sta_url": "data/wc26/sta",
 
@@ -47,7 +47,8 @@
       "ty_url": "data/wc26/ty",
       "tr_url": "data/wc26/tr",
 
-      "ev_url": "data/wc26/ev",
+      "ev_url": "data/wc26/eve",
+      "li_url": "data/wc26/lin",
 
       "status":2,
       "version_code":1,
