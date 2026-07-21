@@ -50,6 +50,10 @@
 
       "ev_url": "data/wc26/eve",
       "li_url": "data/wc26/lin",
+      "hh_url": "data/wc26/hvh",
+      "mp_url": "data/wc26/mpl",
+      "pr_url": "data/wc26/pre",
+      "stm_url": "data/wc26/stm",
 
       "status":2,
       "version_code":1,
