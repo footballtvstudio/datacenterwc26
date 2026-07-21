@@ -42,6 +42,11 @@
       "fi_urlzzzz": "app/encrypt",
       "sta_url11": "data/wc26/sta",
 
+      "ts_url": "data/wc26/ts",
+      "ta_url": "data/wc26/ta",
+      "ty_url": "data/wc26/ty",
+      "tr_url": "data/wc26/tr",
+
       "status":2,
       "version_code":1,
       "update_info":{
